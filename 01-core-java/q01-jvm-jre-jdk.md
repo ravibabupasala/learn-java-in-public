@@ -1,0 +1,18 @@
+# Q1: What is JVM, JRE, and JDK in Java?
+
+## ✅ Explanation
+
+| Term | Full Form | Role |
+|------|-----------|------|
+| JVM  | Java Virtual Machine | Runs Java bytecode |
+| JRE  | Java Runtime Environment | JVM + Core Libraries |
+| JDK  | Java Development Kit | JRE + Compiler + Dev Tools |
+
+---
+
+## 🧠 Diagram (Mermaid.js)
+
+```mermaid
+flowchart LR
+    A[JDK] --> B[JRE]
+    B --> C[JVM]
