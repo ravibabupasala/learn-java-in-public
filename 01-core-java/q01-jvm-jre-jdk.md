@@ -17,6 +17,8 @@ flowchart LR
     A[JDK] --> B[JRE]
     B --> C[JVM]
 
+---
+
 ```java
 public class HelloWorld {
     public static void main(String[] args) {
