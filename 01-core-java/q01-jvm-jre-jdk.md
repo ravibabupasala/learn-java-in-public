@@ -1,6 +1,6 @@
 # Q1: What is JVM, JRE, and JDK in Java?
 
-## ✅ Explanation
+## Explanation
 
 | Term | Full Form | Role |
 |------|-----------|------|
@@ -10,7 +10,7 @@
 
 ---
 
-## 🧠 Diagram (Mermaid.js)
+## Diagram
 
 ```mermaid
 flowchart LR
@@ -18,6 +18,8 @@ flowchart LR
     B --> C[JVM]
 ```
 ---
+
+## Code Example
 
 ```java
 public class HelloWorld {
