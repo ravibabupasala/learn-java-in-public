@@ -16,7 +16,7 @@
 flowchart LR
     A[JDK] --> B[JRE]
     B --> C[JVM]
-
+```
 ---
 
 ```java
@@ -25,3 +25,4 @@ public class HelloWorld {
         System.out.println("Java runs on the JVM!");
     }
 }
+```
