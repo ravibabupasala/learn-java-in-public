@@ -1,4 +1,3 @@
-```markdown
 # Q2: What are primitive and reference data types in Java?
 
 ## Explanation
