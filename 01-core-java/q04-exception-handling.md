@@ -1,4 +1,3 @@
-```markdown
 # Q4: How does exception handling work in Java?
 
 ## Explanation

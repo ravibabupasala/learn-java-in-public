@@ -1,4 +1,3 @@
-```markdown
 # Q5: Difference between Stack and Heap Memory in Java
 
 ## Explanation
